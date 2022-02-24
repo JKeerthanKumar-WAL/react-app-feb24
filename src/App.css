@@ -1,0 +1,40 @@
+.App {
+  font-family: 'Times New Roman', Times, serif;
+  border: 4px solid black;
+  padding: 10px;
+  background-color: lightgoldenrodyellow;
+}
+.App-div{
+  border: 4px solid darkolivegreen;
+  background-image: linear-gradient(lightskyblue,lightgrey);
+  padding: 10px;
+  margin-bottom: 5px;
+  line-height: 40px;
+  font-size: 18px;
+  text-align: center;
+}
+h1{
+  font-family: Arial, Helvetica, sans-serif;
+  color: darkblue;
+}
+input{
+  padding: 3px;
+  border-radius: 5px;
+}
+.text-danger{
+  color: red;
+}
+.divTwo{
+  text-align: center;
+  border: 4px solid green;
+  padding: 5px;
+}
+table{
+  border: 4px solid grey;
+  background-image: linear-gradient(lightskyblue,lightgrey);
+  text-align: center;
+  padding: 5px;
+}
+td{
+  padding: 18.9px;
+}
